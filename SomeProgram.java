@@ -5,4 +5,12 @@ public class SomeProgram {
       System.out.println("Test");
 
     }
+
 }
+
+
+    public void manageTheSatellite() {
+        // TODO implement
+    }
+}
+
